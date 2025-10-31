@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Chirag Maity 👋
+# 💫 Hi, I'm Chirag 👋
 
 🎨 I'm a **highly creative web developer** and an aspiring **video editor** from **India**.  
 💻 I love combining design and logic to build meaningful digital experiences.
